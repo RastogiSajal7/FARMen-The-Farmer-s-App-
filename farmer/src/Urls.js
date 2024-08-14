@@ -1,0 +1,1 @@
+export const baseUrl = 'https://farmen-backend.vercel.app'
